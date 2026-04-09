@@ -9,10 +9,10 @@
 
 ### 👨‍💻 Về bản thân mình
 
-- 🔭 Hiện tại mình đang **học tập về code trên giảng đường Đại học**
-- 🌱 Trọng tâm của mình là **củng cố kiến thức nền tảng và thực hành lập trình**
-- 👯 Mình rất hào hứng tham gia các **dự án học thuật hoặc dự án nhỏ để tích luỹ kinh nghiệm**
-- 💬 Hãy hỏi mình về **những gì mình đang học ở trường**
+- 🔭 Hiện tại mình đang **Học tập tại Học Viện HKVN-VAA**
+- 🌱 Trọng tâm của mình là **CỐ GẮNG BẢN THÂN**
+- 👯 Mình rất hào hứng tham gia các **mình đang vibe coding một vài dự án nhỏ lẻ để test**
+- 💬 Hãy hỏi mình về **những gì mình đang học ở trường?**
 - 📫 Cách để liên hệ với mình: **[Email](mailto:taipan27.game@gmail.com) | [Facebook](https://www.facebook.com/sourrrkngyn7/)**
 
 ### 🛠️ Ngôn ngữ và Công cụ
