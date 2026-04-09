@@ -34,7 +34,7 @@
 ### 🌌 Vibe Coding
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VtoxzJ8L2FjAQ/giphy.gif" alt="Matrix rain" width="100%" style="border-radius: 10px;" />
+  <img src="https://github.com/Trilobyte/Matrix-Screensaver/blob/master/Matrix.gif?raw=true" alt="Matrix rain" width="100%" style="border-radius: 10px;" />
 </p>
 
 ---
