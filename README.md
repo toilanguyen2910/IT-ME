@@ -38,4 +38,4 @@
 </p>
 
 ---
-<p align="center"> <i>File README này sẽ cùng đồng hành với mình trong hành trình tại Đại học.</i> </p>
+<p align="center"> <i>File README này sẽ mô tả về tui.</i> </p>
