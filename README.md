@@ -13,8 +13,7 @@
 - 🌱 Trọng tâm của mình là **củng cố kiến thức nền tảng và thực hành lập trình**
 - 👯 Mình rất hào hứng tham gia các **dự án học thuật hoặc dự án nhỏ để tích luỹ kinh nghiệm**
 - 💬 Hãy hỏi mình về **những gì mình đang học ở trường**
-- 📫 Cách để liên hệ với mình: **[Điền email/Facebook của bạn vào đây nhé]**
-- ⚡ Sự thật thú vị về mình: **[Điền một sở thích của bạn vào đây, ví dụ: Rất thích uống cafe khi code]**
+- 📫 Cách để liên hệ với mình: **[Email](mailto:taipan27.game@gmail.com) | [Facebook](https://www.facebook.com/sourrrkngyn7/)**
 
 ### 🛠️ Ngôn ngữ và Công cụ
 
