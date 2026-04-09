@@ -13,7 +13,7 @@
 - 🌱 Trọng tâm của mình là **CỐ GẮNG BẢN THÂN**
 - 👯 Mình rất hào hứng tham gia các **mình đang vibe coding một vài dự án nhỏ lẻ để test**
 - 💬 Hãy hỏi mình về **những gì mình đang học ở trường?**
-- 📫 Cách để liên hệ với mình: **[Email](mailto:taipan27.game@gmail.com) | [Facebook](https://www.facebook.com/sourrrkngyn7/)**
+- 📫 Cách để liên hệ với mình: **[Email](mailto:taipan27.game@gmail.com) | [Facebook](https://www.facebook.com/sourrrkngyn7/) | [Instagram](https://www.instagram.com/sourrrr_kngyn/)**
 
 ### 🛠️ Ngôn ngữ và Công cụ
 
