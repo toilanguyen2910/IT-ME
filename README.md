@@ -28,8 +28,13 @@
 ### 📊 Thống kê GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=toilanguyen2910&show_icons=true&theme=radium" alt="toilanguyen2910" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=toilanguyen2910&theme=radium" alt="toilanguyen2910" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=toilanguyen2910&theme=radium" alt="Streak Stats" height="150" />
+</p>
+
+### 🌌 Vibe Coding
+
+<p align="center">
+  <img src="https://media.giphy.com/media/VtoxzJ8L2FjAQ/giphy.gif" alt="Matrix rain" width="100%" style="border-radius: 10px;" />
 </p>
 
 ---
